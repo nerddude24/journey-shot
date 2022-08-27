@@ -7,7 +7,7 @@ This is a React project bootstrapped with [bun](https://bun.sh/).
 ### Cloning the repo
 
 ```sh
-bun create react ./react-bun-app
+git clone https://github.com/nerddude24/journey-shot.git
 ```
 
 ### Development
