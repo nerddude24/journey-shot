@@ -1,0 +1,32 @@
+export default [
+	{
+		id: 1,
+		title: "Tokyo",
+		img: "tokyo.jpg",
+		loc: "Japan",
+		gmap: "Tokyo,+Japan",
+		start: "10 Jun, 2030",
+		end: "20 Jun, 2030",
+		desc: "Come on man its tokyo! dark atmospheric streets with neon lights and small shops and kiosks at every corner!",
+	},
+	{
+		id: 2,
+		title: "Mecca",
+		img: "mecca.jpg",
+		loc: "Saudi Arabia",
+		gmap: "Mecca+Saudi+Arabia",
+		start: "20 Dec, 2030",
+		end: "02 Jan, 2031",
+		desc: "Visiting the house of Allah just hits different man.",
+	},
+	{
+		id: 3,
+		title: "Jijel",
+		img: "jijel.png",
+		loc: "Algeria",
+		gmap: "Jijel+Province",
+		start: "20 Jul, 2018",
+		end: "30 Jul, 2018",
+		desc: "Beautiful place, full of lakes and rivers and flora. Felt like paradise!",
+	},
+];
